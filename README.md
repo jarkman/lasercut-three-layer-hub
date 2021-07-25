@@ -9,4 +9,7 @@ It uses M3 nuts & bolts, including one square M3 nut for the clamp bolt.
 Assembly photos: https://photos.app.goo.gl/Y6nMeD6PPnjbo9gn7
 
 The Fusion360 file in the design is moderately parametric, it should be easy to adjust
-for other shaft and bolt diameters.
+for other shaft and bolt diameters. DXFs are included for 4, 5,and 6mm shafts.
+
+![hub](4mm_assembled_hub.jpg)
+
